@@ -17,5 +17,4 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves craf
 Feel free to explore my repositories and reach out if you're interested in collaboration or have any questions! 😊
 
 - GitHub: [@chrshnv](https://github.com/chrshnv)
-
----
+- Telegram: [@chrshnv](https://t.me/thechrshnv)
