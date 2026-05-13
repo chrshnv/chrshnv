@@ -8,10 +8,6 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves craf
 - 🧰 Tools: Git 🔧, Gradle 🛠️, Docker 🐳
 - 🧠 Interests: API development 🌐, SDK design 📚, System architecture 🏗️
 
-## 📈 GitHub Stats
-
-![chrshnv's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrshnv&show_icons=true&theme=default)
-
 ## 🔗 Let's Connect
 
 Feel free to explore my repositories and reach out if you're interested in collaboration or have any questions! 😊
