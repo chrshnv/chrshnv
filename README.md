@@ -1,11 +1,11 @@
 # 👋 Hello there! I'm **chrshnv** 👨‍💻
 
-Welcome to my GitHub profile! I'm a passionate software developer who loves crafting efficient and robust applications. My expertise lies in Java and C++, and I enjoy building tools and libraries that enhance developer productivity. 🚀
+Welcome to my GitHub profile! I'm a passionate software developer who loves crafting efficient and robust applications. My expertise lies in Java, and I enjoy building tools and libraries that enhance developer productivity. 🚀
 
 ## 🛠️ Tech Stack & Tools
 
-- 💻 Languages: Java ☕, C++ 🧠
-- 🧰 Tools: Git 🔧, Maven 📦, Gradle 🛠️, Docker 🐳
+- 💻 Languages: Java ☕
+- 🧰 Tools: Git 🔧, Gradle 🛠️, Docker 🐳
 - 🧠 Interests: API development 🌐, SDK design 📚, System architecture 🏗️
 
 ## 📈 GitHub Stats
@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves craf
 Feel free to explore my repositories and reach out if you're interested in collaboration or have any questions! 😊
 
 - GitHub: [@chrshnv](https://github.com/chrshnv)
-- Telegram: [@chrshnv](https://t.me/thechrshnv)
+- Telegram: [@chrshnv](https://t.me/chrshnv)
