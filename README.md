@@ -1,16 +1,18 @@
-# 👋 Hello there! I'm **chrshnv** 👨‍💻
+# chrshnv
 
-Welcome to my GitHub profile! I'm a passionate software developer who loves crafting efficient and robust applications. My expertise lies in Java, and I enjoy building tools and libraries that enhance developer productivity. 🚀
+Java backend developer focused on developer infrastructure, APIs, and data access.
 
-## 🛠️ Tech Stack & Tools
+## Open Source
 
-- 💻 Languages: Java ☕
-- 🧰 Tools: Git 🔧, Gradle 🛠️, Docker 🐳
-- 🧠 Interests: API development 🌐, SDK design 📚, System architecture 🏗️
+Contributing to:
+- [Spring Data Relational](https://github.com/spring-projects/spring-data-relational)
+- [Axelix](https://github.com/axelixlabs/axelix)
 
-## 🔗 Let's Connect
+## Stack
 
-Feel free to explore my repositories and reach out if you're interested in collaboration or have any questions! 😊
+Java • Spring • PostgreSQL • Gradle • Docker
 
-- GitHub: [@chrshnv](https://github.com/chrshnv)
-- Telegram: [@chrshnv](https://t.me/chrshnv)
+## Links
+
+- GitHub — https://github.com/chrshnv
+- Telegram — https://t.me/chrshnv
