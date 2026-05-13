@@ -10,7 +10,7 @@ Contributing to:
 
 ## Stack
 
-Java • Spring • PostgreSQL • Gradle • Docker
+Java • Spring • Gradle
 
 ## Links
 
